@@ -1,0 +1,7 @@
+vendor/
+.env
+config/database.php
+*.log
+.DS_Store
+.idea/
+node_modules/
