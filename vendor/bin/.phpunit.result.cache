@@ -1,1 +1,1 @@
-{"version":1,"defects":[],"times":{"ExampleTest::testBasicMath":0.509,"ExampleTest::testStringOperations":0,"SimpleTest::testOnePlusOne":0}}
+{"version":1,"defects":[],"times":{"ExampleTest::testBasicMath":0.01,"ExampleTest::testStringOperations":0,"SimpleTest::testOnePlusOne":0}}
